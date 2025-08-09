@@ -9,4 +9,4 @@ I am eager to contribute to Synopsys’s R&D efforts and further develop my skil
   [DOI: https://ieeexplore.ieee.org/document/10940580]
 - **Internship – Silicic Innova Technologies:** Gained exposure to real-time image processing on FPGA, explored communication protocols (APB, I2C, UART), and worked hands-on with Altera DE2-70 and Xilinx Artix-7 board.
 
-- **Academic Elective – FPGA-Based System Design:** Scored S grade (10/10) at VIT Chennai; covered high-performance arithmetic circuits, FSM design, and optimization techniques for speed, area, and power.
+- **Academic Elective – FPGA-Based System Design:** Scored an S grade (10/10) at VIT Chennai. This course enhanced my understanding of high-performance arithmetic circuits, FSM design, and optimization techniques for speed, area, and power. I also gained hands-on experience in Quartus Prime and Altera DE2-115.
