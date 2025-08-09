@@ -8,11 +8,10 @@ I am eager to contribute to Synopsys’s R&D efforts and further develop my skil
 - **IEEE-Published Project:** Developed an optimized image smoothing system on FPGA, analyzing the impact of approximate and parallel prefix adders for improved convolution performance.  
   [DOI: https://ieeexplore.ieee.org/document/10940580]
 - **Internship – Silicic Innova Technologies:** Gained exposure to real-time image processing on FPGA, explored communication protocols (APB, I2C, UART), and worked hands-on with Altera DE2-70 and Xilinx Artix-7 board.
-
 - **Academic Elective – FPGA-Based System Design:** Scored an S grade (10/10) at VIT Chennai. This course enhanced my understanding of high-performance arithmetic circuits, FSM design, and optimization techniques for speed, area, and power. I also gained hands-on experience in Quartus Prime and Altera DE2-115.
 
 ## Tools & Platforms
 - **HDL/HVL:** Verilog, SystemVerilog, UVM (Learning)
 - **EDA Tools:** ModelSim, Vivado, Quartus Prime, Cadence Virtuoso
 - **FPGA Boards:** Altera DE2-70, DE2-115, Xilinx Artix-7, Zynq-7000
-- **OS:** Linux (basic commands and scripting)
+- **OS:** Linux (basic commands)
