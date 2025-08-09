@@ -14,4 +14,5 @@ I am eager to contribute to Synopsys’s R&D efforts and further develop my skil
 - **HDL/HVL:** Verilog, SystemVerilog, UVM (Learning)
 - **EDA Tools:** ModelSim, Vivado, Quartus Prime, Cadence Virtuoso
 - **FPGA Boards:** Altera DE2-70, DE2-115, Xilinx Artix-7, Zynq-7000
+- **Protocols:** I2C, UART, SPI & APB 
 - **OS:** Linux (basic commands)
